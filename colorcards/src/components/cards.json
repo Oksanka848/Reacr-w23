@@ -1,0 +1,31 @@
+[
+  {
+    "id": "01",
+    "price": "300",
+    "speed": "10",
+    "theme": "blue",
+    "isFiltr": true
+    
+  },
+  {
+    "id": "02",
+    "price": "450",
+    "speed": "50",
+    "theme": "green",
+    "isFiltr": true
+  },
+  {
+    "id": "03",
+    "price": "550",
+    "speed": "100",
+    "theme": "red",
+    "isFiltr": true
+  },
+  {
+    "id": "04",
+    "price": "1000",
+    "speed": "200",
+    "theme": "black",
+    "isFiltr": true
+  }
+]
